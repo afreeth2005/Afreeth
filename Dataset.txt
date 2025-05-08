@@ -1,0 +1,17 @@
+Association Rule Mining (ARM) is widely used in retail to discover meaningful relationships between items in customer transactions. The dataset used for this analysis is specially structured to reflect purchasing behavior.
+
+⸻
+
+1. Purpose of the Dataset
+
+The dataset is used to:
+	•	Understand what items customers frequently buy together.
+	•	Identify patterns and associations to improve sales strategies.
+	•	Support decisions in product placement, cross-selling, and inventory management.
+
+⸻
+
+2. Nature of the Dataset
+	•	Transactional Format: The dataset consists of multiple transactions, where each transaction represents a set of items purchased together by a customer.
+	•	Non-numeric: The data is categorical, focusing on the presence or absence of items.
+	•	Unstructured: The number of items per transaction can vary.
